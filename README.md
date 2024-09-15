@@ -5,7 +5,7 @@ I'm currently a Computer Science student at Baruch College with a minor in Mathe
 
 - 👩‍💻 I’m currently developing website to showcase my film photography and share my coding journey
 - 🌱 I’m currently learning C++, HTML5, CSS3, and Bootstrap
-- 👣 Take a peek at my coding journey [here!]
+- 👣 Take a peek at my coding journey here!
 
 
 # 💻 Tech Stack:
