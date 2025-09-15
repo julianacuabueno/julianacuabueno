@@ -2,9 +2,8 @@
 
 I'm currently a Computer Science student at Baruch College with a minor in Mathematics at the heart of NYC! 🍎🏙️
 
-
-- 👩‍💻 I’m currently developing website to showcase my film photography and share my coding journey
-- 🌱 I’m currently learning C++, HTML, CSS, and Bootstrap
+- 👩‍💻 I’m in the progress of developing a website to showcase my film photography and share my coding journey
+- 🌱 Lately, I've been learning C++, HTML, CSS, and Bootstrap
 - 👣 Take a peek at my coding journey here!
 
 
